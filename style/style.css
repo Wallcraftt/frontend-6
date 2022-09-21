@@ -25,3 +25,42 @@ ul{
   padding: 70px;
   font-size: 32px;
 }
+
+.white-dot {
+  width: 5px;
+  height: 5px;
+  border-radius: 100%;
+  background-color: #FFFFFF;
+  padding: 3px;
+  right: 20px;
+  position: fixed;
+  right: 120px;
+  top: 90px;
+}
+
+.white-dot-2 {
+  width: 5px;
+  height: 5px;
+  border-radius: 100%;
+  background-color: #FFFFFF;
+  padding: 3px;
+  right: 20px;
+  position: fixed;
+  right: 100px;
+  top: 90px;
+  opacity: 0.5;
+
+}
+
+.white-dot-3{
+  width: 5px;
+  height: 5px;
+  border-radius: 100%;
+  background-color: #FFFFFF;
+  padding: 3px;
+  right: 20px;
+  position: fixed;
+  right: 80px;
+  top: 90px;
+  opacity: 0.5;
+}
