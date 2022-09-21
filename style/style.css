@@ -22,7 +22,7 @@ ul{
 .projects {
   color: #FFFFFF;
   font-family: ALK Rounded Mtav Med;
-  padding: 70px;
+  padding: 50px 200px;
   font-size: 32px;
 }
 
@@ -68,11 +68,14 @@ ul{
 img{
   width: 250px;
 }
-.info-1 {
+.box-1 {
   width: 250px;
   height: 250px;
   position: relative;
   display: inline-block;
+  bottom: 50px;
+  left: 200px;
+  border-radius: 15px;
 }
 
 .paragraph-1 {
@@ -81,8 +84,44 @@ img{
   bottom: 30px;
   background-color: #FFFFFF;
   margin: 0px 10px;
+  font-family: Arial GEO;
+  padding: 5px 10px;
+  border-radius: 15px;
+}
+
+.box-2 {
+  position: relative;
+  display: inline-block;
+  bottom: 100px;
+  left: 300px;
+}
+
+.paragraph-2 {
+  position: absolute;
+  left: 10px;
+  bottom: 40px;
+  background-color: #FFFFFF;
+  margin: 10px 10px;
+  border-radius: 15px;
+  font-family: ALK Rounded Mtav Med;
+}
+
+.box-3 {
+  position: relative;
+  display: inline-block;
+  bottom: 50px;
+  left: 400px;
+}
+
+.paragraph-3 {
+  position: absolute;
+  left: 10px;
+  bottom: 40px;
+  background-color: #FFFFFF;
+  margin: -20px 10px;
   border-radius: 15px;
   font-family: Arial GEO;
-  padding: -5px;
+  padding: 0px 10px;
 }
+
 
